@@ -1,0 +1,242 @@
+{
+  "templates": [
+    {
+      "name": "Dashboard Template",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/community/forums/t/createsearchindex-not-found-in-mongosh/234699",
+          "uuid": "c4bc5f08a6654960aeb9308d6a3a9d187a09bcd0"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/disk-space-usage-larger-than-expected-compared-to-storage-size/230125",
+          "uuid": "baf55ccd7dad7915e882a7705ef375e4823ba191"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/discriminated-types-with-interfaces-not-supported-in-linqprovider-v3/315293",
+          "uuid": "d4e9241c1b631cf19c5a7c9ec71371613d4d34c8"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/disk-out-of-space-cant-start-mongodb/226854",
+          "uuid": "3866e982a802687d1ee3a2b523f7921087b9bc6f"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/creating-function-using-realm-administration-api-emits-read-size-limit-exceeded-errors/108016",
+          "uuid": "fd9b6d3f676cad42fd5c127d7388efdd4e48d4db"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/creating-index-after-inserting-datas/112427",
+          "uuid": "7df99872893d07660af56813eb95a1bb5118d96e"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/createsearchindex-is-not-working-from-mongosh-connected-from-window-machine/281031",
+          "uuid": "71df37d282387ee6a95e80bad38624b363d3d335"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/disk-space-requirements-for-app-create/272818",
+          "uuid": "29f3e3d3a02a78515792f1ee2cacbe54a908dcc8"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/discussion-regarding-graphlookup-operator/114786",
+          "uuid": "6027ca6b1f850a977b601ee3402a34e33fdca70e"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/discuss-about-how-to-backup-ops-manager-mongodb/221514",
+          "uuid": "a9c7f50d199f6db2a87c9c6bc0c145e8a93b2e12"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/creating-dynamic-mongodb-connections-in-node-js-and-mongoose/250206",
+          "uuid": "5dcb9a5d093a5b8502cf67aee44fdecba34d7baa"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/creating-function-to-query-with-linq-in-a-mongodb-singleton/260593",
+          "uuid": "c16ee3a25cab20c866fe3e2bea5f2ec0e9a7975f"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/createsearchindex-fails-for-user-with-readwrite-on-the-collection/256960",
+          "uuid": "b8eece35d4d54f0fb5918f12e8ff3cd30a9e4954"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "http://www.mongodb.com/community/",
+          "uuid": "7a053f348bfda92107a8b1421241c654cf2bc001"
+        },
+        {
+          "url": "https://www.mongodb.com/cloud/atlas/register",
+          "uuid": "fa6ed98688bebb8cdd62e11441b923520609ea75"
+        },
+        {
+          "url": "https://www.mongodb.com/blog/post/fireworks-ai-mongodb-fastest-ai-apps-with-best-models-powered-by-your-data-cn",
+          "uuid": "524582542ed3d3adfb329ba6bd4d4b99d37b08ae"
+        },
+        {
+          "url": "https://www.mongodb.com/blog/post/fireworks-ai-mongodb-fastest-ai-apps-with-best-models-powered-by-your-data-br",
+          "uuid": "90190cdd1248ade769ccb9a377588bed6d43a8fc"
+        },
+        {
+          "url": "https://www.mongodb.com/blog/post/employee-benefits-that-make-a-difference-at-mongodb-de",
+          "uuid": "a2ff651ebb74d5ca16be0943bc3281bd96472365"
+        },
+        {
+          "url": "https://www.mongodb.com/blog/post/employee-benefits-that-make-a-difference-at-mongodb-es",
+          "uuid": "e71c3ad23b67720adf77bce2283c50ad4932a0c9"
+        },
+        {
+          "url": "https://www.mongodb.com/blog/post/employee-benefits-that-make-a-difference-at-mongodb-kr",
+          "uuid": "6787b56be585d8fd402ef06f59620500ac951d6c"
+        },
+        {
+          "url": "https://www.mongodb.com/blog/post/employee-benefits-that-make-a-difference-at-mongodb-fr",
+          "uuid": "7e1247b1f6091fde391c157d5831bd307a45488d"
+        },
+        {
+          "url": "https://www.mongodb.com/collateral/transforming-your-business-through-artificial-intelligence",
+          "uuid": "05477373a79fe6f00ea65e9c9f55c739389fa87e"
+        },
+        {
+          "url": "https://www.mongodb.com/collateral/real-world-results-blending-json-document-management-and-high-speed-sql",
+          "uuid": "25db1c0a914755404b9072ccb4457d15e344a7c2"
+        },
+        {
+          "url": "https://www.mongodb.com/academia",
+          "uuid": "f06db5696893ecbb8638261760f6771f588e7fce"
+        },
+        {
+          "url": "https://www.mongodb.com/atlas",
+          "uuid": "7b5c806c4fefed9145b03efff0feb4f0e646b6ff"
+        },
+        {
+          "url": "https://www.mongodb.com/cloud/atlas/performance",
+          "uuid": "77a26906aa7980016662ef23f6318a28c0c3444c"
+        },
+        {
+          "url": "https://www.mongodb.com/cloud/atlas/multicloud-data-distribution",
+          "uuid": "e5261d9e11004d0912bb00a3ad9e53d09022771f"
+        },
+        {
+          "url": "https://www.mongodb.com/cloud/atlas/efficiency",
+          "uuid": "0f4bb3b1131a9698347b06017a24841ead328b53"
+        },
+        {
+          "url": "https://www.mongodb.com/cloud/atlas/productivity",
+          "uuid": "efdea458cffb0da3f7971eaf303bde0ceb7571a8"
+        },
+        {
+          "url": "https://www.mongodb.com/cloud/atlas/benefits",
+          "uuid": "6617496b90db3ad02b6ea639d3b3d2a7ab0a5973"
+        },
+        {
+          "url": "https://www.mongodb.com/cloud/atlas/reliability",
+          "uuid": "e2c87b5ca93c9feda70e4a439adb215dd402e74a"
+        },
+        {
+          "url": "https://www.mongodb.com/community-code-of-conduct",
+          "uuid": "a86185097d2b5ffe073ddd151b47a43e4ced8196"
+        },
+        {
+          "url": "https://www.mongodb.com/cloud/atlas/faq",
+          "uuid": "ddc384b58690b6e7a99fe25cbdaa34809b131a64"
+        },
+        {
+          "url": "https://www.mongodb.com/bofamongodbdayjerseycity",
+          "uuid": "6d0e2ad46e8fff49ceefb91ad9b73c8cd2df8a22"
+        },
+        {
+          "url": "https://www.mongodb.com/bofamongodbdaycharlotte",
+          "uuid": "d7a6525732354e45a244cb52c8e37936c0a8ab43"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/community/forums/t/disk-io-increase-after-4-4-5-0-6-0-upgrade/290770",
+          "uuid": "e36c646b0faa2949c84cdb49f943dafd596f868d"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/discrepancy-in-supported-platforms-for-mongodb-8-0/310606",
+          "uuid": "dec47296184c0fbca3a3f98f45de226e9e7b271e"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/creating-facets-with-aggregations/196998",
+          "uuid": "609384d4760bb63688b716ff61fe41cec2c64752"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/discussion-serverless-application-development-with-cloud-run-and-mongodb-atlas/168198",
+          "uuid": "5d9d04bb9582375b6e1df917edd6a44baf859b4b"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/disk-space-is-not-realsed-after-dropping-the-cluster/306273",
+          "uuid": "866b9ef7b6c45e702a43790c524a072a6a973848"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/creating-different-search-indexes-based-on-key-value-pair-within-collection/209249",
+          "uuid": "e44aed9348b1a7f8f851e7fb879baf59bce23b18"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/0-deps-1-saslprep-is-not-a-function/225544",
+          "uuid": "4c8703d0afe5a581a9fd517562aa257a99c4806f"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/0-68-vsc-code-changelog-link-has-a-extra-n-at-the-end/116942",
+          "uuid": "99521a16b8dee4192b62d17dff0364917c90f0d1"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/disk-usage-issues-post-mongodb-upgrade-on-some-nodes/299043",
+          "uuid": "3dfa59bcf643700fb2dad7d2b42a2dba99ab09c8"
+        }
+      ]
+    },
+    {
+      "name": "I'm sorry, I can't analyze the image as it",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://cloud.mongodb.com/ecosystem",
+          "uuid": "4eaeb1a8da3f387db5ad5d052a8c0317a61f164a"
+        }
+      ]
+    },
+    {
+      "name": "Podcast Listing Page",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://podcasts.mongodb.com/public/115/The-MongoDB-Podcast-b02cf624",
+          "uuid": "49c56b95d331e9763512ddcd9615175669802c7f"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Interface'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/",
+          "uuid": "b7400a2a33a54ea8416602dcc8d9bc84a25b610c"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Interface'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.mongodb.com/community/forums/t/discrete-layout-not-summing-data-inside-field/269435",
+          "uuid": "331c5f82b43e2808343fe7fcd9a6839ead3ffb63"
+        },
+        {
+          "url": "https://www.mongodb.com/community/forums/t/creating-group-application-user-permissions-around-mongodb-documents/3414",
+          "uuid": "fb7162c4240274a9f8b803f0ef9a753bd33ad9f6"
+        }
+      ]
+    }
+  ]
+}
