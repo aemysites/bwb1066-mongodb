@@ -63,12 +63,6 @@
       "id": "6787b56be585d8fd402ef06f59620500ac951d6c"
     },
     {
-      "url": "https://www.mongodb.com/blog/post/exploring-data-with-mongo-db-atlas-databricks-and-google-cloud",
-      "source": "SITEMAPS",
-      "targetPath": "/blog/post/exploring-data-with-mongo-db-atlas-databricks-and-google-cloud",
-      "id": "104ef4fcb2588744b58c24ea575a6d838dc26eb6"
-    },
-    {
       "url": "https://www.mongodb.com/blog/post/fireworks-ai-mongodb-fastest-ai-apps-with-best-models-powered-by-your-data-br",
       "source": "SITEMAPS",
       "targetPath": "/blog/post/fireworks-ai-mongodb-fastest-ai-apps-with-best-models-powered-by-your-data-br",
@@ -79,60 +73,6 @@
       "source": "SITEMAPS",
       "targetPath": "/blog/post/fireworks-ai-mongodb-fastest-ai-apps-with-best-models-powered-by-your-data-cn",
       "id": "524582542ed3d3adfb329ba6bd4d4b99d37b08ae"
-    },
-    {
-      "url": "https://www.mongodb.com/blog/post/fireworks-ai-mongodb-fastest-ai-apps-with-best-models-powered-by-your-data-de",
-      "source": "SITEMAPS",
-      "targetPath": "/blog/post/fireworks-ai-mongodb-fastest-ai-apps-with-best-models-powered-by-your-data-de",
-      "id": "8e76bf9aa5add8c832af9ef380a16ca434db2396"
-    },
-    {
-      "url": "https://www.mongodb.com/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-br",
-      "source": "SITEMAPS",
-      "targetPath": "/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-br",
-      "id": "6b1b48d84b8865b18ec976e278d7ef6eab11be4b"
-    },
-    {
-      "url": "https://www.mongodb.com/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-cn",
-      "source": "SITEMAPS",
-      "targetPath": "/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-cn",
-      "id": "ce8e4f17fc374131c15a0bc4a3c151d9243e244e"
-    },
-    {
-      "url": "https://www.mongodb.com/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-de",
-      "source": "SITEMAPS",
-      "targetPath": "/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-de",
-      "id": "175c450cb2d465a78f9bdeba62d6d90172e209b5"
-    },
-    {
-      "url": "https://www.mongodb.com/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-fr",
-      "source": "SITEMAPS",
-      "targetPath": "/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-fr",
-      "id": "e6c8efdde2e04a12c34768ca54de0515204a88de"
-    },
-    {
-      "url": "https://www.mongodb.com/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-it",
-      "source": "SITEMAPS",
-      "targetPath": "/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-it",
-      "id": "323ce675fd6089272126232fda02cb81a5c48837"
-    },
-    {
-      "url": "https://www.mongodb.com/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-kr",
-      "source": "SITEMAPS",
-      "targetPath": "/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-kr",
-      "id": "60e94bc8540969462309458be82d56f751598abe"
-    },
-    {
-      "url": "https://www.mongodb.com/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-la",
-      "source": "SITEMAPS",
-      "targetPath": "/blog/post/workload-isolation-more-scalability-availability-search-nodes-now-on-gcp-la",
-      "id": "4eeaee182b0ca69ecb86241d94df063e4244ed04"
-    },
-    {
-      "url": "https://www.mongodb.com/blog/post/yanolja-finds-optimal-database-for-multi-cloud-innovation-kr",
-      "source": "SITEMAPS",
-      "targetPath": "/blog/post/yanolja-finds-optimal-database-for-multi-cloud-innovation-kr",
-      "id": "3e751628b5704dd5891b82b76148b68b6ba3832b"
     },
     {
       "url": "https://www.mongodb.com/bofamongodbdaycharlotte",
@@ -625,4 +565,5 @@
     }
   ]
 }
+
 
