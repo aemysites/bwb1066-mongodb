@@ -15,18 +15,6 @@
       "id": "4eaeb1a8da3f387db5ad5d052a8c0317a61f164a"
     },
     {
-      "url": "https://learn.mongodb.com/",
-      "source": "SITEMAPS",
-      "targetPath": "/",
-      "id": "4b60e5a2003c7767f6c9bb55efac21fb30d2ceff"
-    },
-    {
-      "url": "https://learn.mongodb.com/pages/certification-program",
-      "source": "SITEMAPS",
-      "targetPath": "/pages/certification-program",
-      "id": "09c8f5f1811e5d93eed5f99452ce118da6044e76"
-    },
-    {
       "url": "https://podcasts.mongodb.com/public/115/The-MongoDB-Podcast-b02cf624",
       "source": "SITEMAPS",
       "targetPath": "/public/115/the-mongodb-podcast-b02cf624",
@@ -637,3 +625,4 @@
     }
   ]
 }
+
